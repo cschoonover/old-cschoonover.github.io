@@ -1,2 +1,2 @@
 # cschoonover.github.io
-Personal site
+The home of the internationally renonwed podcast Half-Cort and Mid-Raynge
