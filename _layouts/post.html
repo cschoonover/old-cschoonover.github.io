@@ -5,5 +5,9 @@ layout: default
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
-  {{ content }}
+  {{ content }}  
+    <audio controls>
+        <source src="{{ page.aac_asset_link}}" type="audio/mp4">
+        Sorry, your browser does not support the <code>audio</code> element.
+    </audio>
 </div>
