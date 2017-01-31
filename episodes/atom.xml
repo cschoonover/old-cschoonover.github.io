@@ -5,8 +5,8 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Half-Cort and Mid-Raynge</title>
-	<link href="http://cschoonover.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://cschoonover.github.io/blog"/>
+	<link href="http://cschoonover.github.io/episodes/atom.xml" rel="self"/>
+	<link href="http://cschoonover.github.io/episodes"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://cschoonover.github.io/blog</id>
 	<author>
